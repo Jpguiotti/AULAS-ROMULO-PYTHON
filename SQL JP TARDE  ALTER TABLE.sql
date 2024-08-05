@@ -197,6 +197,6 @@ VALUES
 (69, 'Tatiane Lima', 20, 123000.00),
 (70, 'Gabriel Santos', 16, 125000.00);
 
-
+select * from aluno;
 
 
